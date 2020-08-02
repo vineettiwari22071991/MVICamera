@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.spotify.mobius:mobius-test:1.2.2@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.spotify.mobius/mobius-test/1.2.2/85d84a3b9299b817d57c6edb20929974a7919ab9/mobius-test-1.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.spotify.mobius/mobius-test/1.2.2/34f420a2e8531e64133b64346fadf82fd8972b1f/mobius-test-1.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "161721683634",
+    "firebase_url": "https://ml-camera-9c489.firebaseio.com",
+    "project_id": "ml-camera-9c489",
+    "storage_bucket": "ml-camera-9c489.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161721683634:android:b3c8a6d0192bc5fc0203ab",
+        "android_client_info": {
+          "package_name": "com.example.camerascanmvi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161721683634-h3aiov89kckogbhm7gfiebrhg4319tsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_UkF70UTBNRdlPfskIY-2N1pTs0I4iOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161721683634-h3aiov89kckogbhm7gfiebrhg4319tsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

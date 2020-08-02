@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/navigation"
+    app:startDestination="@id/foodlistfragment">
+
+    <fragment
+        android:id="@+id/foodlistfragment"
+        android:name="com.example.camerascanmvi.foodlist.FoodlistFragment">
+
+        <action
+            android:id="@+id/scan"
+            app:destination="@id/scanfragment" />
+
+        <action
+            android:id="@+id/fooddetailaction"
+            app:destination="@+id/fooddetailsfragment" />
+    </fragment>
+
+
+    <fragment
+        android:id="@+id/scanfragment"
+        android:name="com.example.camerascanmvi.scan.ScanFragment">
+
+
+        <action
+            android:id="@+id/fooddetail"
+            app:destination="@+id/fooddetailsfragment" />
+    </fragment>
+
+
+    <fragment
+        android:id="@+id/fooddetailsfragment"
+        android:name="com.example.camerascanmvi.fooddetail.FoodDetailsFragment">
+
+        <argument
+            android:name="barcode"
+            app:argType="string" />
+    </fragment>
+</navigation>
