@@ -3,7 +3,9 @@
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.spotify.mobius/mobius-core/1.2.2/5fcc1648f74a97100eea1aa82e00139edf321b8f/mobius-core-1.2.2.jar!/" />
     </CLASSES>
-    <JAVADOC />
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.spotify.mobius/mobius-core/1.2.2/c84b76f703ae840d1c6acf16ff67730395568e71/mobius-core-1.2.2-javadoc.jar!/" />
+    </JAVADOC>
     <SOURCES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.spotify.mobius/mobius-core/1.2.2/c0215057c7c3845f397e9d6d384707ffcbf26210/mobius-core-1.2.2-sources.jar!/" />
     </SOURCES>

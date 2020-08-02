@@ -1,6 +1,7 @@
 <component name="libraryTable">
   <library name="Gradle: com.jakewharton.rxbinding3:rxbinding:3.0.0-alpha2@aar">
     <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d44d2fc6ca879950d02e612570907271/rxbinding-3.0.0-alpha2/AndroidManifest.xml" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d44d2fc6ca879950d02e612570907271/rxbinding-3.0.0-alpha2/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d44d2fc6ca879950d02e612570907271/rxbinding-3.0.0-alpha2/res" />
     </CLASSES>
